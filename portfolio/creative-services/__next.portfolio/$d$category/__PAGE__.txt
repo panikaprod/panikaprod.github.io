@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[5721,["712","static/chunks/712-26f61cefc99d1179.js","292","static/chunks/292-8c79b3efcce4c03f.js","578","static/chunks/app/portfolio/%5Bcategory%5D/page-a48d0dd3c6f9eda2.js"],"default"]
+2:I[5721,["712","static/chunks/712-26f61cefc99d1179.js","464","static/chunks/464-feed77a361c05806.js","578","static/chunks/app/portfolio/%5Bcategory%5D/page-82476d79363543f7.js"],"default"]
 3:I[6226,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"category":{"slug":"creative-services","label":"creative support","cases":[]},"production":false,"initialFilter":"creative-services"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WABZnPhEHptSU7Tezic2U"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"category":{"slug":"creative-services","label":"creative support","cases":[]},"production":false,"initialFilter":"creative-services"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0Y3uFJGMRHzRGWy2fBlb9"}
 5:null
