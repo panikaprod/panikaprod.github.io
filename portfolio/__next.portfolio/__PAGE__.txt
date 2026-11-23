@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[5721,["712","static/chunks/712-26f61cefc99d1179.js","464","static/chunks/464-feed77a361c05806.js","281","static/chunks/app/portfolio/page-393f0aaeadbed9ae.js"],"default"]
+2:I[5721,["712","static/chunks/712-26f61cefc99d1179.js","908","static/chunks/908-dfb6db84abc958db.js","281","static/chunks/app/portfolio/page-430c3d3d6a55eda4.js"],"default"]
 3:I[6226,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"production":true,"category":{"slug":"production","label":"photo & video portfolio","cases":[]}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0Y3uFJGMRHzRGWy2fBlb9"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"production":true,"category":{"slug":"production","label":"photo & video portfolio","cases":[]}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-_Fch2VheDG9sHgoKqpUC"}
 5:null
