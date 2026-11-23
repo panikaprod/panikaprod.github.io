@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[9276,["581","static/chunks/app/admin/layout-7ff352be3fe5b735.js"],"default"]
+2:I[9276,["581","static/chunks/app/admin/layout-0134e0aa82605b79.js"],"default"]
 3:I[8603,[],""]
 4:I[4535,[],""]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EDIp_4io7rcuUuyKfe1Nm"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BHYHR9iLO97V0Y3XMERVK"}
