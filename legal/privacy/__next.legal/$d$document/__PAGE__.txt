@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[7031,["430","static/chunks/app/legal/%5Bdocument%5D/page-a6f060112a19188b.js"],"default"]
+2:I[7031,["430","static/chunks/app/legal/%5Bdocument%5D/page-cc5c824a096a6987.js"],"default"]
 5:I[6226,[],"OutletBoundary"]
 6:"$Sreact.suspense"
 3:T3a6f,# Политика обработки персональных данных
@@ -89,6 +89,6 @@ Google Apps Script и Google Sheets (Google LLC, США) используютс�
 ## 8. Изменение политики
 
 Актуальная утверждённая редакция публикуется на сайте с датой и номером версии. Существенное расширение целей обработки не вводится задним числом через изменение текста политики. При необходимости запрашивается новое согласие.
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"text":"$3","kind":"privacy"}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GCdJKgVP3HsBYvGa4chST"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"text":"$3","kind":"privacy"}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gXr_8XZJj-8cpoROPH1lM"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
