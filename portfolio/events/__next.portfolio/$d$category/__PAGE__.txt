@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[8560,["712","static/chunks/712-4cd069f5e8862590.js","659","static/chunks/659-a0a31ab43db8f6bc.js","578","static/chunks/app/portfolio/%5Bcategory%5D/page-dfc5155db4cb9958.js"],"default"]
+2:I[8560,["712","static/chunks/712-b91de518e3e27525.js","609","static/chunks/609-0a96622da5b7a60b.js","578","static/chunks/app/portfolio/%5Bcategory%5D/page-49867d55184b500e.js"],"default"]
 3:I[6226,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"category":{"slug":"events","label":"events","cases":[]}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iS5KfbfTg1zAzxIgfVFlg"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"category":{"slug":"events","label":"events","cases":[]}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Av7QKVoFRWaSceKSxPYI_"}
 5:null
