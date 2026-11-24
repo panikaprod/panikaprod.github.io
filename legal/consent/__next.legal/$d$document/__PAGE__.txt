@@ -1,12 +1,12 @@
 1:"$Sreact.fragment"
-2:I[7031,["430","static/chunks/app/legal/%5Bdocument%5D/page-02b826e8dae7e42a.js"],"default"]
+2:I[7031,["430","static/chunks/app/legal/%5Bdocument%5D/page-13f86cd3fe2febc4.js"],"default"]
 5:I[6226,[],"OutletBoundary"]
 6:"$Sreact.suspense"
-3:T16e5,# Согласие на обработку персональных данных
+3:T16de,# Согласие на обработку персональных данных
 
 Редакция 1.0 от 15 ноября 2026 года.
 
-Я, посетитель сайта https://panikaprod.github.io/, заполнивший и отправляющий форму, добровольно даю ИП Спиридоновой Веронике Евгеньевне, ИНН 590616265164, ОГРНИП 326595800113213, электронная почта panika.production.agency@gmail.com, согласие на обработку сообщённых мной персональных данных на следующих условиях.
+Я, посетитель сайта https://panikaprod.ru/, заполнивший и отправляющий форму, добровольно даю ИП Спиридоновой Веронике Евгеньевне, ИНН 590616265164, ОГРНИП 326595800113213, электронная почта panika.production.agency@gmail.com, согласие на обработку сообщённых мной персональных данных на следующих условиях.
 
 ## А. Если я отправляю форму «начать проект»
 
@@ -41,6 +41,6 @@
 Согласие предоставляется отдельно от иных документов и может быть отозвано указанным выше способом. Размещение настоящего текста на сайте само по себе не означает получения согласия посетителя.
 
 
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"text":"$3","kind":"consent"}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n8OQ_kpzTUJmuIo27Y6nP"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"text":"$3","kind":"consent"}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wuE2Wm2wtF7BP6IHEo_8d"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

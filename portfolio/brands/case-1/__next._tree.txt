@@ -2,4 +2,4 @@
 :HL["/_next/static/css/cc7fb8bf725da937.css","style"]
 :HL["/_next/static/css/5fba4f340da498cb.css","style"]
 :HL["/_next/static/css/dc4f49ed2224fbfc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"portfolio","param":null,"prefetchHints":0,"slots":{"children":{"name":"category","param":{"type":"d","key":"brands","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"case-1","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"n8OQ_kpzTUJmuIo27Y6nP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"portfolio","param":null,"prefetchHints":0,"slots":{"children":{"name":"category","param":{"type":"d","key":"brands","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"case-1","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"wuE2Wm2wtF7BP6IHEo_8d"}
